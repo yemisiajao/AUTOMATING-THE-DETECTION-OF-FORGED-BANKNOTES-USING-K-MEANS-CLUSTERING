@@ -8,14 +8,15 @@ We are using a simplified version of the banknotes dataset available at OpenML. 
 
 ## Files and folders in the project :
 Banknote_authentication.py - Contains the python code for the project
-Banknote_authentication.csv - The Dataset retrived from OpenML
+Banknote_authentication.csv - The Dataset retrived from [OpenML](https://www.openml.org/d/1462)
+AUTOMATING THE DETECTION OF FORGED BANKNOTES.pdf - Report on the project
 
 ## Setting up the project:
 The following python libraries needs to be installed for the program to run:
-*Numpy
-*Pandas
-*Sklearn
-*Matplotlib
+* Numpy
+* Pandas
+* Sklearn
+* Matplotlib
 
 ## Running the program :
-Run the program using Python Interpreter (Anaconda Package is recommended)
+Run the program using Python Interpreter (Anaconda Distribution is recommended)
